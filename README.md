@@ -1,2 +1,5 @@
 # Funciones-y-Procedimientos-
-Este repositorio contiene: el código en su versión final, la presentación en formato pdf y el archivo README.md con la información solicitada.
+Esta presentación fue realizada como parte de una entrega académica.
+En la presentación y en el código se abordan los siguientes conceptos trabajados en el módulo 1 de FEIP: modularidad, funciones y procedimientos en Java, incluyendo ejemplos practicos presentados por cada integrante del equipo para comprender su funcionamiento.
+El contenido del mismo tiene: archivos de Java con ejemplos de funciones y procedimietos, la presentación en formato PDF y archivo README.md
+Alumnas: Milagros Fernadez, Viviam Guerein, Leticia Perez.
